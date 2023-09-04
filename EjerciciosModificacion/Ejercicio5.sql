@@ -1,0 +1,6 @@
+SELECT* FROM post
+WHERE created LIKE "2023-09-04 17:57:32"
+
+DELETE FROM post
+WHERE created LIKE "2023-09-04 17:57:32"
+
